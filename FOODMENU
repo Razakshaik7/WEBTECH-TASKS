@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <table border="1" cellspacing="5p" cellpadding="5px">
+        <tr>
+            <th colspan="2">FOODMENU</th>
+        </tr>
+        <tr>
+            <td> <a href="https://www.zomato.com/bangalore/26-varieties-of-biryani-btm-bangalore/order" target="_blank"> <img src="https://th.bing.com/th/id/OIP.iKZGnP7u5M5BSYD3RhcxEgHaEv?w=289&h=185&c=7&r=0&o=7&cb=12&dpr=1.1&pid=1.7&rm=3" alt="chicken biryani" height="250px" width="250px"> </a></td>
+            <td> <a href="https://pizzaonline.dominos.co.in/jfl-discovery-ui/en/web/menu-v2/6585R?&showSearchModal=false&scrollTo=222" target="_blank"> <img src="https://cdn.jflimages.co.in/nextgen-catalog/media/prod/Dominos/WebHomeProductV1/e23cd835-8caa-41e9-a98b-c5ecd42b9cbf_HomeProductV1.jpg?ver=V0.0.1" alt="pizza" height="250px" width="250px"> </a></td>
+        </tr>
+        <tr>
+            <td> <a href="https://www.swiggy.com/search?query=Cake" target="_blank"> <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/17/a743eb3f-266e-4bb3-825e-d87bdab550cb_6ea918a0-3b93-4d07-9090-d6bfdde1f23c.jpg" alt="cake" height="250px" width="250px"> </a></td>
+            <td> <a href="https://www.swiggy.com/search?query=Shawarma" target="_blank"> <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/abdd0c0aac9c163c991ec35b64ae5fc1" alt="shawarma" height="250px" width="250px"> </a></td>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
