@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <img src="C:\Users\devar\OneDrive\Pictures\my files\IMG_20240823_122325-01.jpeg" alt="RAZAK" height="200px" width="200px"/>
+    <h1>SHAIK ABDUL RAZAK</h1>
+     <pre><b>razakshaik075@gmail.com     7842703034     Bangalore</b></pre>  
+<hr/>
+<h2><u>SKILLS:</u></h2>
+<ul><b>Languages</b>: Python, SQL, HTML, CSS</ul> 
+<ul><b>Platforms</b>: PyCharm, MySQL, VS Code</ul> 
+<ul><b>Tools</b>: Git, Github, Excel, Word, PowerPoint</ul> 
+<ul><b>Soft Skills</b>: Problem Solving, Communication & Interpersonal Skills, Collaboration & Teamwork</ul>
+<hr/>
+<h2><U>PROJECTS:</U></h2>
+<h3><b>ENERGY EFFICIENT 6T SRAM FOR MULTIMEDIA APPLICATIONS</b></h3>
+<p> As a result we can achieve reduced leakage and dynamic power compared to the conventional design, making it attractive for nanoscale multimedia applications where process variation and power budgets are stringent.                                                                                                              (Jan 2025 - Apr 2025) </p>
+
+<h3><b>IoT CLOUD-BASED SMART HOME AUTOMATION WITH ESP32</b></h3>
+<p> By combining the ESP32's Wi-Fi capabilities and its web server functionality, a web-based system is created that allows users to remotely switch Home Appliances ON and OFF from any device with a web browser.                                                                                     (Oct 2024 - Nov 2024)</p>
+<h3><b>HAND GESTURE REMOTE CAR</b></h3>
+<p> The data to be transmitted and received is produced by the accelerometer sensor. Based on the data received, the motors run to produce the desired movements.                                                                                                        (Sep 2023 - Oct 2023)</p>
+<hr/>
+<h2><u>INTERNSHIP:</u></h2>
+<p>Embedded System - Skilldzire   (January 2025 - April 2025) </p>
+<p>Data Science and visualization of job simulation forage - Skilldzire   (May 2024  - July 2024) </p>
+<hr/>
+<h2><u>CERTIFICATES:</u></h2>
+<p>Introduction to Internet Of Things , Digital Image Processing - NPTEL </p>
+<p>Python for Data Science - IBM </p>
+<p>Data Analytics Job Simulation - Deloitte </p>
+<p>All India Placement Aptitude Test 2024 - Fourth Edition organized by the Communiqué, IIT Kharagpur</p>
+<hr/>
+<h2><u>DECLARATION:</u></h2>
+<p>I hereby declare that all the information given above is true and correct to the best of my knowledge.
+</body>
+</html>
