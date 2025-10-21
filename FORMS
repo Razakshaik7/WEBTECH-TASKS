@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="https://www.youtube.com" method="post">
+        <fieldset>
+            <legend>REGISTRATION FORM</legend>
+            <label for="firstname">FIRSTNAME:</label>
+            <input type="text" id="firstname"/>
+            <br/> <br/>
+            <label for="lastname">LASTNAME:</label>
+            <input type="text" id="lastname"/>
+            <br/> <br/>
+            <label for="username">USERNAME:</label>
+            <input type="text" id="username"/>
+            <br/> <br/>
+            <label for="password">PASSWORD:</label>
+            <input type="text" id="password"/>
+            <br/> <br/>
+            <label for="phoneno">PHONE NUMBER:</label>
+            <input type="text" id="phoneno"/>
+            <br/> <br/>
+            <label for="emailid"> EMAILID:</label>
+            <input type="text" id="emailid"/>
+            <br/> <br/>
+            <label for="address"> ADDRESS:</label>
+            <input type="text" id="address"/>
+            <br/> <br/>
+            <button>REGISTER</button>
+            <button>CANCEL</button>
+            <br/> <br/>
+        </fieldset>
+    </form>
+</body>
+</html>
